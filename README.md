@@ -27,6 +27,7 @@ Even though the dataset is clean, preprocessing is necessary because:
 ```bash
 pip install -r requirements.txt
 jupyter notebook Tutorial-1.ipynb
+```
 
 ## Credits
 Dataset sourced from: [GitHub – stedy/Machine-Learning-with-R-datasets](https://github.com/stedy/Machine-Learning-with-R-datasets)  
